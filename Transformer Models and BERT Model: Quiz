@@ -21,3 +21,6 @@ What is the name of the language modeling technique that is used in Bidirectiona
 
 BERT is a transformer model that was developed by Google in 2018. What is BERT used for?
 => It is used to solve many natural language processing tasks, such as question answering, text classification, and natural language inference.
+
+What are the encoder and decoder components of a transformer model?
+=> The encoder ingests an input sequence and produces a sequence of hidden states. The decoder takes in the hidden states from the encoder and produces an output sequence.
