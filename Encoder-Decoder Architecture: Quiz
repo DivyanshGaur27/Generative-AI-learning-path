@@ -1,0 +1,11 @@
+What is the name of the machine learning architecture that takes a sequence of words as input and outputs a sequence of words?
+=> Encoder-decoder
+
+What are two ways to generate text from a trained encoder-decoder model at serving time?
+=> Greedy search and beam search
+
+What is the purpose of the encoder in an encoder-decoder architecture?
+=> To convert the input sequence into a vector representation
+
+What is the difference between greedy search and beam search?
+=> Greedy search always selects the word with the highest probability, whereas beam search considers multiple possible words and selects the one with the highest combined probability.
